@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "id": 0,
+      "mot": "Bonga",
+      "nature": "(V)",
+      "nombre": "(Ku)",
+      "traduction": "Heurter"
+    },
+    {
+      "id": 1,
+      "mot": "Nuana",
+      "nature": "(V)",
+      "nombre": "(Ku)",
+      "traduction": "Se battre"
+    },
+    {
+      "id": 2,
+      "mot": "Gambasa",
+      "nature": "(V)",
+      "nombre": "(Ku)",
+      "traduction": "Separer"
+    }
+  ]
+}
